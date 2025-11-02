@@ -25,7 +25,7 @@ With AnyDesk, users can experience:
 Whether you are providing IT support, working from home, or accessing your files on the go, AnyDesk ensures a smooth and responsive remote desktop experience that feels like you are sitting right in front of the machine. Its intuitive interface makes it easy for anyone to establish a secure connection in seconds.
 
 <p align="center">
-  <img src="https://cdn.document360.io/b94c9ac2-20ec-4c7e-b325-135b0ed113f9/Images/Documentation/settings%20about%20anydesk.png" alt="AnyDesk Screenshot"/>
+  <img src="https://www.helpwire.app/blog/wp-content/uploads/2021/09/anydesk-interface.png" alt="AnyDesk Screenshot"/>
 </p>
 
 ---
